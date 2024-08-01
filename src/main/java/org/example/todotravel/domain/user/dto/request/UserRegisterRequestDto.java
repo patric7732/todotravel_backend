@@ -53,3 +53,5 @@ public class UserRegisterRequestDto {
     @NotNull(message = "생년월일는 필수 입력 값입니다.")
     private LocalDate birthDate;
 }
+
+
